@@ -1,0 +1,60 @@
+schema = 3
+
+[mod]
+  [mod."github.com/TobiasYin/go-lsp"]
+    version = "v0.0.0-20220223105953-c4c503a4442e"
+    hash = "sha256-vo8gt9gU5tdhCSG6/X015O8OSZq+Z8MDOzUJ5g42W0Y="
+  [mod."github.com/davecgh/go-spew"]
+    version = "v1.1.1"
+    hash = "sha256-nhzSUrE1fCkN0+RL04N4h8jWmRFPPPWbCuDc7Ss0akI="
+  [mod."github.com/emicklei/proto"]
+    version = "v1.11.2-0.20230405093244-ad7e79baafcc"
+    hash = "sha256-A2u+yI6oIvPaYE1BHdnqzIAddQ9pxq67tdAhSekPYyg="
+  [mod."github.com/google/go-cmp"]
+    version = "v0.5.6"
+    hash = "sha256-OlzzRmcIdX45NA5h/C90NfJ/th0LB+tMHT6WzdQFK1M="
+  [mod."github.com/google/gofuzz"]
+    version = "v1.0.0"
+    hash = "sha256-ZvgcSQt4kMwS6nvPp3jrlCHSH3bky1oBD6kytnEa5GM="
+  [mod."github.com/json-iterator/go"]
+    version = "v1.1.12"
+    hash = "sha256-To8A0h+lbfZ/6zM+2PpRpY3+L6725OPC66lffq6fUoM="
+  [mod."github.com/modern-go/concurrent"]
+    version = "v0.0.0-20180228061459-e0a39a4cb421"
+    hash = "sha256-+bdeHUArnpkk4eMQIwXm9K249NkpwAjoTrXrGn/4VUE="
+  [mod."github.com/modern-go/reflect2"]
+    version = "v1.0.2"
+    hash = "sha256-+W9EIW7okXIXjWEgOaMh58eLvBZ7OshW2EhaIpNLSBU="
+  [mod."github.com/pmezard/go-difflib"]
+    version = "v1.0.0"
+    hash = "sha256-/FtmHnaGjdvEIKAJtrUfEhV7EVo5A/eYrtdnUkuxLDA="
+  [mod."github.com/segmentio/asm"]
+    version = "v1.1.3"
+    hash = "sha256-T26b7yreVbvHVaUSLRnSeF+p4fmVhyTNIj7HzL83deA="
+  [mod."github.com/segmentio/encoding"]
+    version = "v0.3.4"
+    hash = "sha256-GgNBocSGyaGrHdnJOQKb6jaXfj/oBa+81fLQyQ4aJ9s="
+  [mod."github.com/stretchr/objx"]
+    version = "v0.1.0"
+    hash = "sha256-az0Vd4MG3JXfaYbj0Q6AOmNkrXgmXDeQm8+BBiDXmdA="
+  [mod."github.com/stretchr/testify"]
+    version = "v1.7.0"
+    hash = "sha256-t1I9uCrn9vSUu/z5IZuNyGShmbOcJ6UGc2f75ZBrHzE="
+  [mod."go.lsp.dev/jsonrpc2"]
+    version = "v0.10.0"
+    hash = "sha256-RbRsMYVBLR7ZDHHGMooycrkdbIauMXkQjVOGP7ggSgM="
+  [mod."go.lsp.dev/uri"]
+    version = "v0.3.0"
+    hash = "sha256-jGP0N7Gf+bql5oJraUo33sXqWg7AKOTj0D8b4paV4dc="
+  [mod."golang.org/x/sys"]
+    version = "v0.0.0-20220319134239-a9b59b0215f8"
+    hash = "sha256-SaJAnTJdNzZnnq14FBZyc0Xowqb4Ty9RfsYaGBMzwyo="
+  [mod."golang.org/x/xerrors"]
+    version = "v0.0.0-20191204190536-9bdfabe68543"
+    hash = "sha256-DCyizuMVp9AhKGv0vL/iRZz/R6jWFmQxDWj1NFeITvo="
+  [mod."gopkg.in/check.v1"]
+    version = "v0.0.0-20161208181325-20d25e280405"
+    hash = "sha256-1w5mgYaZUC52uzDnpXXVqle/9AVkH4WePSrQFOVANUw="
+  [mod."gopkg.in/yaml.v3"]
+    version = "v3.0.0-20210107192922-496545a6307b"
+    hash = "sha256-j8yDji+vqsitpRZirpb4w/Em8nstgf28wpwkcrOlxBk="
